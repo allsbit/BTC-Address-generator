@@ -1,8 +1,8 @@
 # BTC Address generator
 
 This is .NET Bitcoin Address Generator program.<br>
-Generate BTC addres and Private Key(WIF format).<br>
-BTC addres is uncompressed.<br>
+Generate BTC address and Private Key(WIF format).<br>
+BTC address is uncompressed.<br>
 Default generate one address, max 1000 address.<br>
 **Usage**:<br>
 BTCAddressGenerator.exe - Generate one BTC address.<br>
